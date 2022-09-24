@@ -17,11 +17,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="[YOUR_GIF_URL_HERE](https://media.giphy.com/media/JemvySyK5uJWLQB3Ky/giphy.gif)" width=250><br>
 
 ### Notes
+
 I had some challenges understanding the flow structure of the different segues and ViewControllers. Hopefully, I'll understand the same patterns in how 
 to create and add different segues to make my app more complex. 
+
 ---
 
 ## Flix Part 1
