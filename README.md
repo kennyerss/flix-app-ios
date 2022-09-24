@@ -41,4 +41,5 @@ to create and add different segues to make my app more complex.
 <img src="https://media.giphy.com/media/LChSd7m97nZ1nNhSrm/giphy-downsized-large.gif" width=250><br>
 
 ### Notes
+
 I liked reconnecting the lab components in fetching the API and having that same functionality or recipe in this assignment. In the future, I'd like to add in more features to help make my submission more flexible and complex. 
