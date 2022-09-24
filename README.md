@@ -40,7 +40,7 @@ to create and add different segues to make my app more complex.
 
 ### App Walkthrough GIF
 
-<img src="https://media.giphy.com/media/LChSd7m97nZ1nNhSrm/giphy-downsized-large.gif" width=250><br>
+<img src="https://media.giphy.com/media/JemvySyK5uJWLQB3Ky/giphy.gif" width=250><br>
 
 ### Notes
 
